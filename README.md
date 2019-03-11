@@ -1,4 +1,4 @@
-forked from YoungMiao/crnn https://github.com/YoungMiao/crnn
+partly forked from YoungMiao/crnn https://github.com/YoungMiao/crnn
 
 ## 说明
 
