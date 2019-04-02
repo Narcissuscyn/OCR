@@ -1,3 +1,6 @@
+关于CTC loss的深入理解，写了一个博客：[CTC loss 深入理解](https://github.com/Narcissuscyn/OCR/blob/master/2018-04-14-CTC%20loss%E7%9A%84%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%EF%BC%88CTC:%20Connectionlist%20Temporal%20Classification%EF%BC%89.pdf)
+      
+
 partly forked from YoungMiao/crnn https://github.com/YoungMiao/crnn
 
 ## 说明
